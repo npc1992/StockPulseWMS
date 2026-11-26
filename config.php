@@ -7,7 +7,7 @@
  */
 
 // Default Google Apps Script Web App URL (replace with your deployed /exec URL)
-define('DEFAULT_GOOGLE_APPS_SCRIPT_URL', 'https://script.google.com/macros/s/aaAKfycbx_DEFAULT_DEPLOYMENT_ID/exec');
+define('DEFAULT_GOOGLE_APPS_SCRIPT_URL', 'https://script.google.com/macros/s/AKfycbzAc7JERtorj4JtJs2lNYjEa6Or9uJPac7bulHGBINCGTL4qbmPjCIBHncTRgXMUmJqEA/exec');
 
 // Optional default workspace branding settings
 define('DEFAULT_APP_TITLE', 'StockPulse WMS');
