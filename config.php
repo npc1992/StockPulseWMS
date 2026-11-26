@@ -1,6 +1,6 @@
 <?php
 /**
- * StockPulse WMS — Server & Database Configuration (Save & Load)
+ * StockPulse WMS — Server & Database Configuration (Save & Load) 
  *
  * Provides default Google Apps Script Web App URL and branding configuration,
  * plus server-side save/load support via config.override.json when hosted on PHP.
